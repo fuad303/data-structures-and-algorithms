@@ -137,6 +137,3 @@ class LinkedList {
 const myLL = new LinkedList(0);
 myLL.push(1).push(2).push(3).push(4);
 myLL.display();
-console.log("Reversed");
-myLL.reverse();
-myLL.display();
